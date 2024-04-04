@@ -1,0 +1,7 @@
+#include <iostream>
+
+int main(){
+    std::cout << "Hello Odin!";
+    std::cout << "\n SUS";
+    return 0;
+}
